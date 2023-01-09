@@ -1,4 +1,4 @@
-# Welcome to (my) space! <br>
+# Welcome to this space! <br>
 
 ## About me: <br>
 👋 Hello! I am **Adrian**, from Berlin, Germany. <br> Previously in Marketing Technology/Automation and CRM Implementation. <br>
@@ -20,7 +20,7 @@ or through email at adrian.fricke@gmail.com
 
 ---
 An ai generated image attributed to 'peaceful coding' for the coming days... <br>
-![Image](8-hX1OMVfQXdYklbv.png)
+![Image](8-8qDFAF1FdqIEQbb.png)
 
 
 Learning the following in the coming weeks:
