@@ -8,7 +8,10 @@ I will also be linking my ongoing projects and some status updates here and ther
 ### Interests
 * Business & Economics
 * Food and Cuisines (primarily asian)     
-* 
+* Sports
+  * Football
+  * Yoga
+  * Table Tennis
 <br>
 
 Reach out for future collaboration, questions or follow me on: <br>
