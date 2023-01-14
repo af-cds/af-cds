@@ -1,7 +1,9 @@
-# Welcome to this space! <br>
-
+     .-. .-..----..-.   .-.    .----.    
+     | {_} || {_  | |   | |   /  {}  \  
+     | { } || {__ | `--.| `--.\      /   
+     `-' `-'`----'`----'`----' `----'    
 ## About me: <br>
-👋 Hello! I am **Adrian**, from Berlin, Germany. <br> Previously in Marketing Technology/Automation and CRM Implementation. <br>
+👋 I am **Adrian**, from Berlin, Germany. <br> Previously in Marketing Technology/Automation and CRM Implementation. <br>
 Now learning how to <mark>code and build web applications</mark> at _Spiced Academy_. <br>
 I will also be linking my ongoing projects and some status updates here and there.
 
@@ -26,8 +28,8 @@ An ai generated image attributed to 'peaceful coding' for the coming days... <br
 Learning the following in the coming weeks:
 
 - [x] Git & Github + VS Code 
-- [ ] Markdown basics
-- [ ] HTML & CSS
+- [x] Markdown basics
+- [x] HTML & CSS
 - [ ] JavaScript
 - [ ] Final Project
 ---
